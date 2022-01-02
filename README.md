@@ -1,1 +1,1 @@
-# pali-similarity
+# 巴利语相似句
